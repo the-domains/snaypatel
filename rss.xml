@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SnayPatel]]></title>
+        <description><![CDATA[SnayPatel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 12:41:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Conductor]]></title>
+            <description><![CDATA[<article><h1>The Conductor</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc056e285adf3998a2904e4fb4a6f1d2abb33df.jpg"></article>]]></description>
+            <link>undefinedthe-conductor/index.html</link>
+            <guid isPermaLink="false">80f74812-5442-4c3d-80e5-eeed56d193ec</guid>
+            <pubDate>Fri, 15 Apr 2016 12:41:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
